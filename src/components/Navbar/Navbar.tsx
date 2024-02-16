@@ -1,6 +1,6 @@
 export const Navbar = () => {
     return (
-        <div className='text-slate-50'>
+        <div className='flex justify-between items-center mx-auto h-24 px-4 max-w-[1240] text-slate-50'>
             <h1 className=' w-full text-3xl font-bold text-[#00df9a]'>React</h1>
             <ul className='flex'>
                 <li className='p-4'>Company</li>
